@@ -1,0 +1,3 @@
+Displays a stacked graph on an RGB matrix using an Arduino.
+
+Upload the Arduino sketch, and run the companion program on a machine connected to the Arduino via USB.
